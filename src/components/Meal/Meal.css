@@ -1,0 +1,22 @@
+.singleMealCard {
+  height: 670px;
+  border: 2px solid gray;
+  margin: 20px auto;
+  border-radius: 20px;
+  position: relative;
+}
+.singleMealCard .description {
+  width: 80%;
+  margin: 30px auto;
+}
+.showMoreBtn {
+  width: 100%;
+  border: none;
+  border-top: 2px solid gray;
+  padding: 20px 50px;
+  margin-top: 30px;
+  border-radius: 0 0 20px 20px;
+  background-color: lightgray;
+  font-size: 16px;
+  font-weight: bold;
+}
